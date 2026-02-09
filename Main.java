@@ -12,9 +12,9 @@ public class Main {
     // month_days = new int[12];// Array instantiation or memory allocation
     // month_days[0] = 31; // Initializing array elements
     // System.out.println("Number of days in January: " + month_days[0]);
-    int a, b[];
-    int a [], b;
-    int [] a, b;
+    // int a, b[];
+    // int a [], b;
+    // int [] a, b;
 
 
 
